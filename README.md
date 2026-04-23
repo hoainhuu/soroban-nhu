@@ -35,7 +35,7 @@ Contract screenshot:
 - Develop a full token model for campus-wide digital credits
 
 # Profile
-Name: [Your Name]
+Name: Nguyen Ngo Hoai Nhu
 
 Background: University student interested in blockchain and practical decentralized applications.
 
