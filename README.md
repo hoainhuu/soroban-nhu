@@ -19,7 +19,7 @@ By building this project, I wanted to demonstrate that Stellar can be used not o
 
 # Contract
 Contract link: https://stellar.expert/explorer/testnet/tx/6265c2744bb9b00b488be0c74086a751eae732306a591c21e6d1ebd4513880b7
-
+Contract id: CAQ3I7N7BNNOC7GY6H55EHOSOSUTRJPRYXKFIPARDFE4JEG4LZSCAJE7
 Contract screenshot:  
 <img width="1913" height="871" alt="image" src="https://github.com/user-attachments/assets/5feda922-ae62-4e99-abdc-43779e252922" />
 
@@ -47,3 +47,5 @@ Skills:
 - Basic frontend development
 
 This project was created for the Stellar bootcamp as a practical demonstration of blockchain in student life.
+## Project Vision
+The vision of this project is to create a simple and transparent campus meal credit system using Stellar Soroban. In the future, this idea can be expanded into a real payment solution for university cafeterias, allowing students to receive, manage, and spend meal credits quickly and securely on blockchain.
