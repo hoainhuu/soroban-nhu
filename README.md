@@ -21,6 +21,8 @@ By building this project, I wanted to demonstrate that Stellar can be used not o
 Contract link: https://stellar.expert/explorer/testnet/tx/6265c2744bb9b00b488be0c74086a751eae732306a591c21e6d1ebd4513880b7
 
 Contract screenshot:  
+<img width="1913" height="871" alt="image" src="https://github.com/user-attachments/assets/5feda922-ae62-4e99-abdc-43779e252922" />
+
 
 
 # Future scopes
