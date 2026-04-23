@@ -19,12 +19,9 @@ By building this project, I wanted to demonstrate that Stellar can be used not o
 
 # Contract
 Contract link: https://stellar.expert/explorer/testnet/tx/6265c2744bb9b00b488be0c74086a751eae732306a591c21e6d1ebd4513880b7
-Contract id: CAQ3I7N7BNNOC7GY6H55EHOSOSUTRJPRYXKFIPARDFE4JEG4LZSCAJE7
+Contract id: CAQ3I7N7BNNOC7GY6H55EHOSOSUTRJPRYXKFIPARDFE4JEG4LZSCAJE7 Contract screenshot:
 Contract screenshot:  
-<img width="1913" height="871" alt="image" src="https://github.com/user-attachments/assets/5feda922-ae62-4e99-abdc-43779e252922" />
-
-
-
+![Contract Screenshot](picture/Screenshot%202026-04-23%20154606.png)
 # Future scopes
 - Integrate Freighter wallet connection in a web frontend
 - Add a cafeteria dashboard for operators
@@ -35,7 +32,7 @@ Contract screenshot:
 - Develop a full token model for campus-wide digital credits
 
 # Profile
-Name: Nguyen Ngo Hoai Nhu
+Name: [Your Name]
 
 Background: University student interested in blockchain and practical decentralized applications.
 
